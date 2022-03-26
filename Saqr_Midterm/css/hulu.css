@@ -1,0 +1,106 @@
+.container{
+	background-color: #ffffff;
+}
+body{
+	background-image: url(../images/body-background.png);
+}
+
+.navbar{
+	background-image: url(../images/navbar-background.jpg);
+}
+.jumbotron{
+	position: relative;
+	background: url(../images/backtothefuture.jpg) no-repeat center center;
+	padding-top: 15%;
+	padding-bottom: 15%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-size: cover;
+	top: 25px;
+    min-height: 600px;
+
+}
+
+h1{
+	color: #ffffff;
+	text-align: left;
+	font-size: 80px;
+	font-size: calc(1.525rem + 3.3vw);
+}
+
+h2{
+	font-size: 26px;
+}
+
+p{
+	color: #ffffff;
+	text-align: left;
+	font-size: 28px;	
+}
+
+.btn-primary{
+	background-color: #89bf35;
+	border-width: 0px;
+	text-shadow: 1px 1px 2px #000000;
+}
+
+.btn-primary:hover{
+	color: #000000;
+	background-color: #ffffff;
+	text-shadow: 0px 0px 0px;
+}
+
+h3{
+	background-color: #000000;
+	color: #ffffff;
+}
+
+h4{
+	background-color: #ffffff;
+	color: #000000;
+	font-size: 18px;
+}
+
+.copyright{
+	font-size: 12px;
+	color: #968f8e;
+}
+
+.footer{
+	background-color: #dfdbda;
+}
+
+.border-top{
+	border-top-style: solid !important;
+	border-top-color: #000000 !important;
+	border-top-width: 1px !important;
+}
+
+.copy-link{
+	color: #4f4b4b;
+}
+
+.navbar-nav > li{
+  	padding-left:15px;
+
+}
+
+.nav-link{
+	font-weight: bold;
+}
+
+nav .navbar-nav li a{
+	color:#ffffff !important;
+	text-shadow: 1px 1px 2px #000000;
+}
+
+.copy-link:hover{
+	color: #000000;
+}
+
+.rec-link{
+	text-decoration: none;
+}
+.rec-link:hover{
+	text-decoration: none;
+}
